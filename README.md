@@ -1,6 +1,10 @@
 # Supervised Machine Learning
 
-In this Challenge, we were asked to use imbalanced-learn and scikit-learn libraries to determine what model is best to use when trying to determine credit risk.
+In this Challenge we were asked to determine which technique would be good at predicting loans that would be high risk. The four techniques that were used included:
 
-## Oversampling
-After resampling the data with RandomOverSampler and training it with Logistic Regression model, we calculated the balanced accuracy score to be 65%. When looking at this at first glance, one would assume that this is a great score. However, we need to 
+* Naive Random Sampling
+* SMOTE Oversampling
+* Undersampling
+* Combination (Over and Under) Sampling
+
+Please see the jupyter notebook for the analysis.
