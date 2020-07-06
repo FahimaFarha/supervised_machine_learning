@@ -7,4 +7,4 @@ In this Challenge we were asked to determine which technique would be good at pr
 * Undersampling
 * Combination (Over and Under) Sampling
 
-Please see the jupyter notebook for the analysis.
+Please see the jupyter notebook in Starter Code for the analysis.
